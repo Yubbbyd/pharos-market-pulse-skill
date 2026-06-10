@@ -125,7 +125,9 @@ pharos-skill/
 ---
 ## Demo
 
-Open `demo.html` in any browser to see the Skill output rendered as a live dashboard.
+🔴 Live: [https://Yubbbyd.github.io/pharos-market-pulse-skill/demo.html](https://Yubbbyd.github.io/pharos-market-pulse-skill/demo.html)
+
+Or open `demo.html` locally in any browser.
 
 ## Built For
 
