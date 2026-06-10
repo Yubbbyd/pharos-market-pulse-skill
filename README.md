@@ -123,6 +123,9 @@ pharos-skill/
 ├── getNews.js            # News module (standalone test)
 └── README.md             # This file
 ---
+## Demo
+
+Open `demo.html` in any browser to see the Skill output rendered as a live dashboard.
 
 ## Built For
 
